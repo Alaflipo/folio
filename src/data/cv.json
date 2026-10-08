@@ -1,0 +1,243 @@
+{
+    "aboutMe": {
+        "text": "Hi! I am Morris, a software developer with a strong interest in UX/UI and human-centered design. With a background in Computer Science, I enjoy combining technical problem-solving with creativity to build digital experiences that are innovative, intuitive, and enjoyable to use. I am particularly interested in projects in which I can design interactive tools that help users work with complex algorithms in an intuitive way. Currently, I am an EngD candidate in Industrial Design at Eindhoven University of Technology (TU/e). My research focuses on prototyping future AI-enabled radiology workflows, exploring how AI can be effectively integrated into the way radiologists work.", 
+        "more": "Curious to know more? Explore my work and projects below!"
+    },
+    "contact": {
+        "location": "Eindhoven, Netherlands", 
+        "mail": "morrisboers@gmail.com", 
+        "linkedIn": {
+            "text": "LinkedIn", 
+            "url": "https://www.linkedin.com/in/morris-boers-761794173/"
+        }, 
+        "github": {
+            "text": "GitHub",
+            "url": "https://github.com/Alaflipo"
+        }, 
+        "website": {
+            "text": "morrisboers.nl",
+            "url": "morrisboers.nl"
+        }
+    },
+    "skills": {
+        "Software Development": 5, 
+        "UX design": 5,
+        "Web development": 5, 
+        "Artifical Intellgence Algorithms": 4, 
+        "UI design": 4, 
+        "App development": 3, 
+        "Agile and Scrum": 3, 
+        "Data Analytics": 4, 
+        "Data Visualization": 5, 
+        "User Research": 3, 
+        "Human Technology Interaction": 4, 
+        "AI Tools": 4, 
+        "Formal Systems Analysis": 4, 
+        "Networks/Graph Theory": 3
+    },
+    "tools": {
+        "Javascript/Typescript": 5, 
+        "CSS": 4, 
+        "Python": 5, 
+        "C/C++": 4, 
+        "Swift": 3, 
+        "Java": 4, 
+        "SQL": 4, 
+        "PHP": 3, 
+        "R": 3, 
+        "React": 5, 
+        "Django": 4, 
+        "Git": 4, 
+        "Docker": 4, 
+        "Illustrator": 4, 
+        "Photoshop": 3 
+    }, 
+    "work": [
+        {
+            "title": "Engineering Doctorate", 
+            "company": "Philips", 
+            "location": "Eindhoven", 
+            "employment": "Fulltime", 
+            "image": "logo_philips.jpeg", 
+            "startYear": "2026",
+            "endYear": "Present", 
+            "description": "I am currently exploring how AI models can be meaningfully integrated into the clinical workflows of radiologists. Through an iterative process of ideation, prototyping, and evaluation, we develop new software and test them in Philips’ medical test facilities to understand how they can best support radiologists in practice.", 
+            "link": "https://www.philips.nl/healthcare"
+        }, 
+        {
+            "title": "Chairman supervisory board", 
+            "company": "Wervingsdagen", 
+            "location": "Eindhoven", 
+            "employment": "Parttime", 
+            "image": "logo_wervingsdagen.jpeg", 
+            "startYear": "2024",
+            "endYear": "2025", 
+            "description": "Chaired the Supervisory Board of Wervingsdagen, overseeing the organization of TU/e's largest career events and advising the executive board on strategy, vision and budget.", 
+            "link": "https://wervingsdagen.nl/index/"
+        }, 
+        {
+            "title": "Secretary Study Association", 
+            "company": "SV Intermate", 
+            "location": "Eindhoven", 
+            "employment": "Fulltime", 
+            "image": "logo_intermate.jpeg", 
+            "startYear": "2024",
+            "endYear": "2025", 
+            "description": "Represented over 800 students, managed board administration and communications, and helped organize educational, career, and social events.", 
+            "link": "https://www.intermate.nl/"
+        }, 
+        {
+            "title": "Data Analyist", 
+            "company": "Product Flow", 
+            "location": "Utrecht", 
+            "employment": "Parttime", 
+            "image": "logo_productflow.jpeg", 
+            "startYear": "2022",
+            "endYear": "2024", 
+            "description": "Developed web crawlers to identify potential client leads and applied machine learning techniques to prioritize prospects for the sales team. Additionally, advised on the integration of these insights into the UI.", 
+            "link": "https://www.productflow.com/"
+        }, 
+        {
+            "title": "Software Developer", 
+            "company": "Code Yellow B.V.", 
+            "location": "Eindhoven", 
+            "employment": "Parttime", 
+            "image": "logo_codeyellow.jpeg", 
+            "startYear": "2021",
+            "endYear": "2022", 
+            "description": "Frontend developer (with also a bit of backend experience) using React TS in combination with Django. \n\nDuring this job I have worked on the following projects: \n - Developing the MedWise platform for @Pharmi \n - Developing a backoffice system for @Levens \n - Developing database visualisation and creation software for internal use", 
+            "link": "https://www.codeyellow.nl/"
+        },
+        {
+            "title": "Food Devilvery Driver", 
+            "company": "Thuisbezorgd", 
+            "location": "Eindhoven", 
+            "employment": "Parttime", 
+            "image": "logo_thuisbezorgd.jpeg", 
+            "startYear": "2020",
+            "endYear": "2021", 
+            "description": "", 
+            "link": "https://careers.justeattakeaway.com/global/en"
+        },
+        {
+            "title": "Restaurant waiter", 
+            "company": "De oude pastorie", 
+            "location": "Lisse", 
+            "employment": "Parttime", 
+            "image": "logo_pastorie.png", 
+            "startYear": "2017",
+            "endYear": "2018", 
+            "description": "Front runner as waiter for a restaurant/B&B and managing a bar", 
+            "link": "https://deoudepastorielisse.nl/en/home-2/"
+        }
+    ],
+    "study": [
+        {
+            "title": "Computer Science & Engineering", 
+            "degree": "Master", 
+            "location": "TU Eindhoven", 
+            "image": "logo_tu.jpeg", 
+            "startYear": "2023", 
+            "endYear": "2026", 
+            "description": "Graduated Cum Laude. For my thesis, I developed and presented Newey: software that algorithmically assists users in creating high-quality, fully labelled transit map layouts. (INSERT LINK)",
+            "link": "https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering/"
+        }, 
+        {
+            "title": "Innovation Sciences (Psychology & Technology)", 
+            "degree": "Bachelor", 
+            "location": "TU Eindhoven", 
+            "image": "logo_tu.jpeg", 
+            "startYear": "2019", 
+            "endYear": "2022", 
+            "description": "(INSERT RELEVANT PROJECTS)", 
+            "link": "https://www.tue.nl/studeren/bachelor-college/bachelor-psychology-technology/"
+        }, 
+        {
+            "title": "Computer Science & Engineering", 
+            "degree": "Bachelor", 
+            "location": "TU Eindhoven", 
+            "image": "logo_tu.jpeg", 
+            "startYear": "2019", 
+            "endYear": "2022", 
+            "description": "Graduated Cum Laude.", 
+            "link": "https://www.tue.nl/en/education/bachelor-college/bachelor-computer-science-and-engineering"
+        }, 
+        {
+            "title": "Artificial Intelligence & Cognitive Sciences", 
+            "degree": "Bachelor", 
+            "location": "Tilburg University", 
+            "image": "logo_UT.png", 
+            "startYear": "2018", 
+            "endYear": "2019", 
+            "description": "Only finished my first year and received a Propedeuse (P) Cum Laude.", 
+            "link": "https://www.tilburguniversity.edu/education/bachelors-programs/cognitive-science-and-artificial-intelligence"
+        }, 
+        {
+            "title": "Fioretti College", 
+            "degree": "Highschool diploma", 
+            "location": "Lisse", 
+            "image": "logo_fio.png", 
+            "startYear": "2012", 
+            "endYear": "2018", 
+            "description": "Graduated Cum Laude. Profile NT/NG.", 
+            "link": "https://www.fioretti.nl/lis/"
+        }
+    ], 
+
+    "projects": [
+        {   
+            "id": 1, 
+            "title": "Newey - Interactive Metro Map Editor", 
+            "description": "Newey is an interactive transit map editor developed as part of my Master's thesis. The application combines optimization algorithms with intuitive editing tools to help users create high-quality schematic transit maps. By automatically optimizing station positions, line layouts, and label placements, Newey simplifies the complex process of map design while giving users creative control over the final result. The project was awarded a 9 and resulted in a scientific publication.", 
+            "image": "project_newey.png"
+        },
+        {   
+            "id": 2, 
+            "title": "MUSE - Museum AI Exploration", 
+            "description": "MUS-E is an interactive museum application that uses AI to transform the way visitors explore and engage with art. By using their camera as an exploration tool, visitors can discover artworks and create personalized AI-generated paintings inspired by their own photographs. These creations can be showcased on digital canvases and explored by other visitors, making the museum experience more interactive, creative, and social. The application combines a custom-trained image recognition model with the DALL·E API for generating unique artworks.", 
+            "image": "project_muse_2.png"
+        },
+        {   
+            "id": 3, 
+            "title": "MedicijnWijs - Digital Pharmacist", 
+            "description": "MedicijnWijs is a mobile application developed for Pharmi that helps users better understand their medication and encourages responsible medication use. Through bite-sized educational content, medication reminders, and personal well-being tracking, the app makes managing medication more accessible, engaging, and intuitive. In this project, I contributed to both front-end development and UI/UX design, helping shape an intuitive and user-friendly experience.", 
+            "image": "project_pharmi_2.png"
+        },
+        {   
+            "id": 4, 
+            "title": "Creative Data Tree Visualizer", 
+            "description": "For this project the goal was to help users explore and understand complex hierarchical datasets through intuitive data visualizations. The application offers three distinct visualization methods, each presenting the same underlying tree structure in a different way, allowing users to explore data from multiple perspectives. The challenge was to balance visual appeal with clarity, ensuring users could easily navigate and understand complex relationships. It was developed as part of a university project.", 
+            "image": "project_dbl.png"
+        },
+        {   
+            "id": 5, 
+            "title": "Quantum Cube - A 3D Snake Game", 
+            "description": "Quantum Cube is a snake-like futuristic 3D game that combines artificial intelligence with immersive visual effects. Players navigate the surface of a cube, leaving glowing trails behind while trying to outsmart an AI opponent and avoid collisions. The game features self-developed graphics techniques such as bloom, HDR, and dynamic lighting, alongside power-ups and multiple camera perspectives. I particulararly focussed on using lighting and visual effects to enhance the player experience. It was developed as part of a university project.", 
+            "image": "project_quantumcube.png"
+        },
+        {   
+            "id": 6, 
+            "title": "Django Untangled - Database Visualization Tool", 
+            "description": "Django Untangled is a web application developed for Code Yellow as part of my Computer Science Bachelor's End Project. The tool automatically generates interactive entity-relationship diagrams from Django source code, allowing developers to easily visualize, customize, and communicate database structures. A key challenge was visualizing large, complex database tables while maintaining a clean, intuitive, and user-friendly interface.", 
+            "image": "project_django_untangled.png"
+        },
+        {   
+            "id": 7, 
+            "title": "Medwise - Gamification Research", 
+            "description": "Medwise is a mobile application developed by Pharmi and Code Yellow that helps users better understand and manage their medication. For my Psychology & Technology Bachelor's End Project, I investigated how gamification could encourage long-term use of the app. I designed and developed different prototypes featuring rewards, progression systems, and storytelling, which I evaluated through user experiments.", 
+            "image": "project_medwise.png"
+        },
+        {   
+            "id": 8, 
+            "title": "Foodie - Social Cooking Application", 
+            "description": "Foodie is a social cooking application designed to inspire users to discover, create, and share homemade recipes. Inspired by platforms like Instagram, the app combines a personalized recipe feed with social features such as likes, comments, and recipe sharing. Users can explore affordable and easy-to-make meals, follow step-by-step instructions, and share their own creations through photos and videos. It was developed as part of a university group project. My contributions focused on UI/UX design and Android development.", 
+            "image": "project_foodie.png"
+        }, 
+        {   
+            "id": 9, 
+            "title": "Heat Detecting Glove", 
+            "description": "This glove is a wearable prototype designed to help people with reduced sensation in their hands avoid burns during everyday activities like cooking. Equipped with heat sensors, the glove warns users of dangerous temperatures through visual and audio signals. My contributions centered on electronics and programming, where I gained hands-on experience with Arduino, circuit design, and soldering.", 
+            "image": "project_glove.png"
+        }
+    ]
+}
